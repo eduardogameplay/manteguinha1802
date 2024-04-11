@@ -1,21 +1,20 @@
 :root {
     --cor-de-fundo: #1adab0;
    --texto: #000000;
-
 }
 /* ffffffffffff */
 body {
     background-color: var(--cor-de-fundo);
    color: var(--texto);
-{
+}
 img{
    width: 250px; ;
 }
 .amigas-do-eduzin{
-   display: ;grid;
+   display: grid;
    grid-template-columns: 33% 33% 33%;
 }
-.
-class foto de grupo{
-   width: 40%;
+.amigas-do-eduzin{
+  width: 20%;
 }
+  
