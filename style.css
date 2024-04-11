@@ -13,8 +13,9 @@ header{
    align-items: center;
    flex-wrap: wrap;
 }
-img{
-   width: 250px; ;
+.img-intro{
+   display: flex;
+}
 }
 .amigas-do-eduzin{
    display: grid;
