@@ -7,6 +7,12 @@ body {
     background-color: var(--cor-de-fundo);
    color: var(--texto);
 }
+
+header{
+   display: flex;
+   align-items: center;
+   flex-wrap: wrap;
+}
 img{
    width: 250px; ;
 }
