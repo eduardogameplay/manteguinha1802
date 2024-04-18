@@ -1,5 +1,5 @@
 :root {
-    --cor-de-fundo: #1adab0;
+    --cor-de-fundo: #2c0ce4;
    --texto: #000000;
 }
 /* ffffffffffff */
@@ -30,6 +30,6 @@ header{
    width: 20%;
 }
 header a{
-   color:white;
+   color:rgb(0, 162, 255);
    text-decoration: none;
 }
