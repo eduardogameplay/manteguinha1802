@@ -6,6 +6,7 @@
 body {
     background-color: var(--cor-de-fundo);
    color: var(--texto);
+
 }
 
 header{
@@ -30,6 +31,6 @@ header{
    width: 20%;
 }
 header a{
-   color:rgb(0, 162, 255);
+   color:rgba(255, 72, 0, 0.336);
    text-decoration: none;
 }
