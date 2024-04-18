@@ -18,11 +18,11 @@ header{
 
 }
 }
-.amigas-do-eduzin{
+#amigas-do-eduzin{
    display: grid;
    grid-template-columns: 33% 33% 33%;
 }
-.amigas-do-eduzin{
+.edu{
   width: 40%;
 }
   
