@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap');
 :root {
-    --cor-de-fundo: #2c0ce4;
-   --texto: #ffffff;
+    --cor-de-fundo: #ffffff;
+   --texto: #000000;
 }
 /* ffffffffffff */
 body {
@@ -12,7 +12,7 @@ body {
    font-style: normal;
 }
 footer { 
-   background-color: black;
+   background-color: rgb(0, 195, 255);
   color: var(--texto);
 }
 header{
