@@ -44,3 +44,7 @@ header a{
 .canguru{
    width: 30%;
 }
+.viajens{
+   display: flex;
+   flex-direction: column;
+}
