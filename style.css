@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap');
 :root {
     --cor-de-fundo: #2c0ce4;
    --texto: #ffffff;
@@ -6,7 +7,9 @@
 body {
     background-color: var(--cor-de-fundo);
    color: var(--texto);
-
+   font-family: "Jersey 15", sans-serif;
+   font-weight: 400;
+   font-style: normal;
 }
 footer { 
    background-color: black;
